@@ -1,2 +1,0 @@
-# start
-Our Major Project
